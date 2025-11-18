@@ -1,0 +1,5 @@
+1. Create React + Vite project.
+2. Create new Message file.
+3. Change App.tsx code.
+4. Install bootstrap via npm (npm i bootstrap@5.2.3)
+5. import 'bootstrap/dist/css/bootstrap.css' in main.tsx.
