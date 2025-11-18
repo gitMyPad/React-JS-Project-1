@@ -1,4 +1,3 @@
-import Message from './Message';
 import ListGroup from './components/ListGroup';
 import Alert, { AlertMessageTypes } from './components/Alert';
 import { useState } from "react";
